@@ -1,13 +1,13 @@
 # Churn_Competition
-**CONTEXT:
-**
+**CONTEXT:**
+
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 
-**DATASET CONTENT:
-**
+**DATASET CONTENT:**
+
 Each row represents a customer, each column contains the customer’s attributes described on the column Metadata.
 
-The data set includes information about:
+_The data set includes information about:_
 
 Customers who left within the last month – the column is called Churn
 Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
@@ -17,8 +17,8 @@ Inspiration
 To explore this type of model and learn more about the subject.
 
 
-**PROJECT APPROACH:
-**
+**PROJECT APPROACH:**
+
 First of all, I preprocessed the IBM dataset sample in the data cleaning stage. 
 Furthermore, I started analyzing the dataset to find patterns and understand the data at hand.
 Visualization was the key, to derive my insight on the data, I visualized the important features I found to be of value to help in the feature engineering stage.
